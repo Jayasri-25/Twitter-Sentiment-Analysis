@@ -90,6 +90,8 @@ The combination of EDA and machine learning provides valuable insights into publ
 and real-time Twitter data.
 
 ---
+## Project Demo 
+https://github.com/user-attachments/assets/def8055b-6dea-466f-8bed-bb2a33742ccf
 
 ## 👩‍💻 Developed By
 
